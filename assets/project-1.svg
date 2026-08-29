@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1200" height="800" fill="#f2f2f2"></rect>
+  <rect x="0.5" y="0.5" width="1199" height="799" fill="none" stroke="#111111"></rect>
+  <line x1="0" y1="0" x2="1200" y2="800" stroke="#dcdcdc"></line>
+  <line x1="1200" y1="0" x2="0" y2="800" stroke="#dcdcdc"></line>
+  <text x="600" y="405" text-anchor="middle" font-size="14" fill="#111111" letter-spacing="1">PROJECT 1 · 1200×800</text>
+</svg>

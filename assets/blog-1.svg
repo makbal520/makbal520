@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="800" height="1000" fill="#f2f2f2"></rect>
+  <rect x="0.5" y="0.5" width="799" height="999" fill="none" stroke="#111111"></rect>
+  <line x1="0" y1="0" x2="800" y2="1000" stroke="#dcdcdc"></line>
+  <line x1="800" y1="0" x2="0" y2="1000" stroke="#dcdcdc"></line>
+  <text x="400" y="505" text-anchor="middle" font-size="14" fill="#111111" letter-spacing="1">BLOG 1 · 800×1000</text>
+</svg>

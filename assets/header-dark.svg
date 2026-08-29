@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1200" height="600" fill="#0d1117"></rect>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ffffff" letter-spacing="0.5">
+    <text x="28" y="38">20:24:45 MUC</text>
+    <text x="176" y="38">02:24:45 PEK</text>
+  </g>
+  <text x="1172" y="39" font-size="16" fill="#ffffff" text-anchor="end">Menu</text>
+  <g font-size="17">
+    <text x="780" y="222" fill="#ffffff" font-weight="700">Baylee (Mahebali). <tspan fill="#9a9a9a" font-weight="400">AI Master's student at TU</tspan></text>
+    <text x="780" y="249" fill="#9a9a9a">Munich, building document-grounded RAG</text>
+    <text x="780" y="276" fill="#9a9a9a">systems, cloud-deployed ML pipelines, and</text>
+    <text x="780" y="303" fill="#9a9a9a">interfaces studied through real usability testing.</text>
+  </g>
+  <text x="24" y="560" font-size="207" fill="#ffffff" letter-spacing="-3">MAHEBALI</text>
+</svg>
