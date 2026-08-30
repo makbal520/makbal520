@@ -6,7 +6,7 @@
      srcset/src URLs below for  https://YOUR-PROJECT.deno.dev/?theme=dark  and  ?theme=light -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Baylee (Mahebali) — AI Master's student at TU Munich, building document-grounded RAG systems, cloud-deployed ML pipelines, and interfaces studied through real usability testing." width="100%">
+  <img src="assets/header-light.svg" alt="Baylee (Mahebali) — AI Master's student at TU Munich | Industrial Engineering & UX Research background. I build AI systems that are explainable and actually deployed." width="100%">
 </picture>
 
 <sub>PYTHON · PYTORCH · LANGCHAIN · DOCKER · AWS · TYPESCRIPT · FIGMA</sub>
@@ -38,7 +38,7 @@ tested with people who were not in the room when they were designed.</sub>
 
 ### [ Flashquiz-rag]([https://github.com/makbal520](https://github.com/makbal520/flashquiz-rag))
 
-<sub>Pin a repository on your profile and this card fills itself in.</sub>
+<sub>Document-grounded Q&A and flashcard system using RAG pipeline (LangChain + ChromaDB + GPT). Every answer traces back to its source. Validated with real users — SUS score 78/100.</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -49,7 +49,7 @@ tested with people who were not in the room when they were designed.</sub>
 
 ### [AI Meeting Project]([https://github.com/makbal520/AI-meeting-based-on-LLM-project])
 
-<sub>Pin a repository on your profile and this card fills itself in.</sub>
+<sub>Multi-agent meeting platform built with n8n and LLM orchestration. Automates summaries, coaching, and follow-ups. Tested via A/B study and SUS evaluation.</sub>
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ tested with people who were not in the room when they were designed.</sub>
 
 ### [ Gaze-interactive]([https://github.com/makbal520/Gaze-interactive-E-commerce-Interface])
 
-<sub>Pin a repository on your profile and this card fills itself in.</sub>
+<sub>Eye-tracking UX experiment (Tobii, n=10) comparing dynamic vs. static ad design. Dynamic ads outperformed across fixation ratio, recall, and purchase intention — results validated with t-test.</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -87,59 +87,12 @@ tested with people who were not in the room when they were designed.</sub>
 
 ### [ Fake-News-Detection-Data analysis]([https://github.com/makbal520/Fake-News-Detection-using-Machine-Learning])
 
-<sub>Pin a repository on your profile and this card fills itself in.</sub>
+<sub>ML classification pipeline on 30,000+ news articles. 1,055 engineered features (TF-IDF, sentiment, similarity). Naive Bayes classifier with 92% test accuracy and AUC 0.98 — evaluated beyond accuracy with full precision/recall/F1 breakdown.</sub>
 
 </td>
 </tr>
 </table>
 <!-- PINNED:END -->
-
----
-
-<!-- ───────────────  BLOG / IDEA  ─────────────── -->
-
-## Blog / Idea
-
-<sub>Notes written while the work was still unfinished: what the model got wrong,
-what the users did that I did not predict, and what I would build differently.</sub>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<img src="assets/blog-1.png" alt="" width="100%">
-
-<sub>WRITE | READ — RETRIEVAL</sub><br>
-**[What Overfitting Costs a RAG System](#)**
-
-<sub>Chunking, reranking, and the quiet failure mode where the answer is fluent,
-sourced, and wrong. Measured on a corpus I annotated by hand.</sub>
-
-<sub>● Online</sub>
-</td>
-<td width="33%" valign="top">
-<img src="assets/blog-2.png" alt="" width="100%">
-
-<sub>LOOK | READ — PIPELINES</sub><br>
-**[Deploying a Model Nobody Has to Babysit](#)**
-
-<sub>Six weeks of turning a notebook into a service: reproducible builds,
-drift checks, and the alerts that actually get read.</sub>
-
-<sub>● Online</sub>
-</td>
-<td width="33%" valign="top">
-<img src="assets/blog-3.png" alt="" width="100%">
-
-<sub>READ — USABILITY</sub><br>
-**[Five Users, One Broken Assumption](#)**
-
-<sub>What a small round of moderated testing changed about an interface I was
-certain of. The tape is more useful than the metrics.</sub>
-
-<sub>● Online</sub>
-</td>
-</tr>
-</table>
 
 ---
 
