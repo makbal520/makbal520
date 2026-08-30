@@ -5,8 +5,8 @@
 <!-- Live clock version: deploy server/clock-svg.ts on Deno Deploy and swap the two
      srcset/src URLs below for  https://YOUR-PROJECT.deno.dev/?theme=dark  and  ?theme=light -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Baylee (Mahebali) — AI Master's student at TU Munich | Industrial Engineering & UX Research background. I build AI systems that are explainable and actually deployed." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img src="assets/header-light.png" alt="Baylee (Mahebali) — AI Master's student at TU Munich, building document-grounded RAG systems, cloud-deployed ML pipelines, and interfaces studied through real usability testing." width="100%">
 </picture>
 
 <sub>PYTHON · PYTORCH · LANGCHAIN · DOCKER · AWS · TYPESCRIPT · FIGMA</sub>
